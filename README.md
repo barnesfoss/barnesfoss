@@ -1,5 +1,7 @@
 <div data-importer="image" align="center">
   <img data-importer="image" height="150" src="./bannerv3.png"  />
+  <br>
+  <i text-align="center">any pronouns | EN/ZH</i>
 </div>
 
 ###
@@ -13,11 +15,7 @@
   </a>
 </div>
 
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=barnesfoss.barnesfoss&"  />
-</div>
+---
 
 ###
 
@@ -25,7 +23,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm from a small river town in Ohio called Gallipolis<br><br>- 🔭 I’m currently working as Student Life Engagement Support @ Berea<br>- 📚 I'm currently learning Rust <br>- ⚡ In my free time I like to play video games, make music and draw!</p>
+<p data-importer="text" align="left">🌎 - I'm from a small river town in Ohio called Gallipolis<br>🔭 - I’m currently working as Student Life Engagement Support @ Berea<br>📚 - I'm currently learning Rust <br>⚡ - In my free time I like to play video games, make music and draw!<br>🇨🇳 - I speak some 中文</p>
 
 ###
 
