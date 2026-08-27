@@ -25,11 +25,11 @@
 
 ###
 
-<p data-importer="text" align="left">I'm from a small river town in Ohio called Gallipolis<br><br>- 🔭 I’m currently working as Student Life Engagement Support @ Berea<br>- 📚 I'm currently learning Rust.<br>- ⚡ In my free time I like to play video games, make music and draw!</p>
+<p data-importer="text" align="left">I'm from a small river town in Ohio called Gallipolis<br><br>- 🔭 I’m currently working as Student Life Engagement Support @ Berea<br>- 📚 I'm currently learning Rust <br>- ⚡ In my free time I like to play video games, make music and draw!</p>
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h3 data-importer="text" align="left">🛠 Language & Tools</h3>
 
 ###
 
